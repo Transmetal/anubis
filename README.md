@@ -10,7 +10,7 @@ Installing anubis
 
 Clone the anubis project files
 
-`git clone --recursive https://github.com/Transmetal/AllHackingTools`
+`git clone --recursive https://github.com/Transmetal/anubis`
 
 
 Navigate to the cloned folder
