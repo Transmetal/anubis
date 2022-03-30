@@ -22,6 +22,6 @@ Install dependencies
 
 Run the installer
 `pip install -r requirements.txt`
-Run anubis
 
+Run anubis
 `python anubis.py`
